@@ -5,9 +5,9 @@ Just try to ping target host
 Ansible already installed on your machine.
 
 ### Step-by-step
-###### You can directly clone from this repository
+###### You can directly clone from this repository and select ansible-ping directory
 
-    git clone https://TODO
+    git clone https://github.com/ru-rocker/ansible-playground
 
 ###### Or you dare to create manually:
 Create directory for our playbook

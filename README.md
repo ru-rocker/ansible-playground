@@ -22,3 +22,6 @@ Use locally available keys to authorize logins on a remote machine
 ## Sub-directories
 #### ansible-ping
 In this sub-module, the playbook is intended to ping remote server.
+
+#### ansible-vault
+Encrypting sensitive playbook files using ansible vault
