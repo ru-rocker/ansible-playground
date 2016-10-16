@@ -1,0 +1,4 @@
+---
+# tasks file for copy files
+- name: copy secret.txt
+  copy: src=secret.txt dest=/tmp
