@@ -1,0 +1,9 @@
+- hosts: localhost
+  tasks:
+    - name: Test that my module works
+      dice:
+        guess_number: 3
+        number_of_roll: 3
+      register: result
+
+    - debug: var=result
