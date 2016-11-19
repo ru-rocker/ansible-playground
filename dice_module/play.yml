@@ -1,6 +1,6 @@
 - hosts: localhost
   tasks:
-    - name: Test that my module works
+    - name: Rolling dice
       dice:
         guess_number: 3
         number_of_roll: 3
